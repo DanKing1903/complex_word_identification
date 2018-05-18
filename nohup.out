@@ -1,0 +1,90 @@
+
+(nm-applet:4337): Gtk-WARNING **: Can't set a parent on widget which has a parent
+
+
+(nm-applet:4337): Gtk-WARNING **: Can't set a parent on widget which has a parent
+
+
+(nm-applet:4337): Gtk-CRITICAL **: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4337): Gtk-CRITICAL **: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4337): nm-applet-CRITICAL **: get_menu_item_for_ap: assertion 'dup_data.hash != NULL' failed
+
+(nm-applet:4337): nm-applet-CRITICAL **: get_menu_item_for_ap: assertion 'dup_data.hash != NULL' failed
+
+(nm-applet:4337): Gtk-WARNING **: Can't set a parent on widget which has a parent
+
+
+(nm-applet:4337): Gtk-CRITICAL **: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4337): Gtk-CRITICAL **: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4337): Gtk-WARNING **: Can't set a parent on widget which has a parent
+
+
+(nm-applet:4337): Gtk-CRITICAL **: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4337): Gtk-CRITICAL **: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4337): Gtk-WARNING **: Can't set a parent on widget which has a parent
+
+
+(nm-applet:4337): Gtk-CRITICAL **: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4337): Gtk-CRITICAL **: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4337): Gtk-WARNING **: Can't set a parent on widget which has a parent
+
+
+(nm-applet:4337): Gtk-CRITICAL **: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4337): Gtk-CRITICAL **: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4337): Gtk-WARNING **: Can't set a parent on widget which has a parent
+
+
+(nm-applet:4337): Gtk-CRITICAL **: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4337): Gtk-CRITICAL **: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4337): Gtk-WARNING **: Can't set a parent on widget which has a parent
+
+
+(nm-applet:4337): Gtk-CRITICAL **: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4337): Gtk-CRITICAL **: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4337): Gtk-WARNING **: Can't set a parent on widget which has a parent
+
+
+(nm-applet:4337): Gtk-CRITICAL **: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4337): Gtk-CRITICAL **: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4337): Gtk-WARNING **: Can't set a parent on widget which has a parent
+
+
+(nm-applet:4337): Gtk-CRITICAL **: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4337): Gtk-CRITICAL **: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4337): Gtk-CRITICAL **: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4337): Gtk-CRITICAL **: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4337): nm-applet-CRITICAL **: get_menu_item_for_ap: assertion 'dup_data.hash != NULL' failed
+
+(nm-applet:4337): nm-applet-CRITICAL **: get_menu_item_for_ap: assertion 'dup_data.hash != NULL' failed
+
+(nm-applet:4337): Gtk-WARNING **: Can't set a parent on widget which has a parent
+
+
+(nm-applet:4337): nm-applet-CRITICAL **: get_menu_item_for_ap: assertion 'dup_data.hash != NULL' failed
+
+(nm-applet:4337): nm-applet-CRITICAL **: get_menu_item_for_ap: assertion 'dup_data.hash != NULL' failed
+
+(nm-applet:4337): Gtk-CRITICAL **: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4337): Gtk-CRITICAL **: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+Failed to register: GDBus.Error:org.freedesktop.DBus.Error.NoReply: Message recipient disconnected from message bus without replying
